@@ -160,6 +160,7 @@ h1, h2, h3, h4, h5, h6 {
 #experience i {
 	color: rgb(255, 138, 89);
 	font-size: 4em;
+	display: flex;
 }
 
 #experience h3 {
